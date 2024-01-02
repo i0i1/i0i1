@@ -1,4 +1,4 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/28aa4fa7-7c73-4b61-b9eb-8179fcec912c/deploy-status)](https://app.netlify.com/sites/sufi-tc/deploys)
+
 ## About me
 <h1 align="center">Hi 👋, I'm Mustafa Abbas</h1>
 <h3 align="center">Master  my the Python language</h3>
