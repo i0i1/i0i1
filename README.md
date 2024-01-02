@@ -19,5 +19,5 @@
 ## My Top Languages
 ---
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-## Logo me
+## My motto
 ![athphane](https://telegra.ph/file/a5e52d9f8efb437798062.jpg)
